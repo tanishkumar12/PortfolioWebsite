@@ -813,7 +813,7 @@ section {
   }
 
   .contact-item {
-    flex-direction: column;
+    flex-direction: row;
     margin: 1rem 0;
   }
   .contact-item p {
