@@ -270,6 +270,7 @@ section {
             display: flex;
             flex-direction: column;
             .prog-title {
+                align-self: center;
                 text-transform: uppercase;
                 font-weight: 500;
             }
